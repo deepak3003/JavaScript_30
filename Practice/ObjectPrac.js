@@ -54,5 +54,8 @@ for(let[fruit, value] of Object.entries(fruits)){
 }
 // document.getElementById("demo").innerHTML = text1;
 
+//Stringify Object 
+let myString = JSON.stringify(person);
 
+// document.getElementById("demo").innerHTML = myString;
 
